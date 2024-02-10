@@ -57,8 +57,3 @@ We are grateful for every contribution that helps grow and improve Pioneer. Cont
 
 For questions, suggestions, or discussions about collaborations, please contact the Pioneer maintainers at [contact information].
 
----
-
-This README is tailored for Pioneer, emphasizing its community-driven approach, goals, and restrictions on commercial use. Adjust the content as necessary to match your project's specific setup instructions or contribution process details.
-
-
